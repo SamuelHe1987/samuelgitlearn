@@ -3,6 +3,7 @@ git add <file>
 git commit -m "msg"
 git log 
 git reflog
+git diff <version> <file>
 
 git reset <version>
 git reset file
