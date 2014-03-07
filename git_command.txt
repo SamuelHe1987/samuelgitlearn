@@ -13,6 +13,6 @@ git checkout --file
 git remote add origin git@github.com:michaelliao/learngit.git
 git push -u origin master
 
-
+xx
 ---add ssh in local
 $ ssh-keygen -t rsa -C "252439572@qq.com"
